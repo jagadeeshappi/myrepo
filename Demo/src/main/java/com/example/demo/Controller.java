@@ -8,7 +8,7 @@ public class Controller {
 	@GetMapping("/get")
 	public String get()
 	{
-		return "Hello from main branch";
+		return "Hello from main branch+ B2 branch";
 	}
 
 }
